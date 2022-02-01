@@ -42,10 +42,3 @@ Agradecemos à seguinte pessoa que contribuíu para este projeto:
     </td>
   </tr>
 </table>
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/gabomoreira/blackjack.git
-git push -u origin main
