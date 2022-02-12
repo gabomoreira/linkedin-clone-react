@@ -4,7 +4,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/gabomoreira/linkedin-clone-react?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/gabomoreira/linkedin-clone-react?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabomoreira/linkedin-clone-react?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabomoreira/linkedin-clone-react?style=for-the-badge)
 
 <img src="img-project.png" alt="LinkedIn Clone">
 
